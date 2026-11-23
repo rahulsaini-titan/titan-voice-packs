@@ -1,0 +1,102 @@
+{
+  "archive_size": 74295693,
+  "archive_sha256": "1a755e5a5cd41a7e3004d770ede69e5d3716624cf9a32395ea87aa0a82b62b8a",
+  "parts": [
+    {
+      "name": "Titan-Kitten-Hindi-v1.chunk-00",
+      "size": 8000000,
+      "sha256": "6f02dc993a0482f4b4d598ca3cc59c8fc3e91d00021dcad45109445a7e975acd"
+    },
+    {
+      "name": "Titan-Kitten-Hindi-v1.chunk-01",
+      "size": 8000000,
+      "sha256": "be8a7ded03d41e3b7ea6be7dff29c0d3e109fa45a084ae970358380e6c108850"
+    },
+    {
+      "name": "Titan-Kitten-Hindi-v1.chunk-02",
+      "size": 8000000,
+      "sha256": "a870ebc3932b342b9d1e09478ee534f906585da8a4d3686c87551ebc296e5a58"
+    },
+    {
+      "name": "Titan-Kitten-Hindi-v1.chunk-03",
+      "size": 8000000,
+      "sha256": "9806b9031419f73a59af8e822eaa0ecbcf97eff4932bc0b6ec486f2fe633b316"
+    },
+    {
+      "name": "Titan-Kitten-Hindi-v1.chunk-04",
+      "size": 8000000,
+      "sha256": "1f61bfeb15e4c4cfd18c8bbad0c9e0794f6d5e98883d236665df90efd3348490"
+    },
+    {
+      "name": "Titan-Kitten-Hindi-v1.chunk-05",
+      "size": 8000000,
+      "sha256": "685f686db6c5745c104ab321b1c74dc2ee1cd453c65ef7fd8e05f5f85500d5f0"
+    },
+    {
+      "name": "Titan-Kitten-Hindi-v1.chunk-06",
+      "size": 8000000,
+      "sha256": "24187b426c63a557bf8c3d9aa14c4bb24e528d31ef32833272d491890fe04cb4"
+    },
+    {
+      "name": "Titan-Kitten-Hindi-v1.chunk-07",
+      "size": 8000000,
+      "sha256": "3ac3a6716cf44190a8d57cb869c8b9ca4a3aee145adc0e3e4323444ce2c702f9"
+    },
+    {
+      "name": "Titan-Kitten-Hindi-v1.chunk-08",
+      "size": 8000000,
+      "sha256": "e285303099b6d46322d4da87f00f4b09e25b509ffc4a783cc2fed4e6cf8aa402"
+    },
+    {
+      "name": "Titan-Kitten-Hindi-v1.chunk-09",
+      "size": 2295693,
+      "sha256": "63e5d3641e981577a12aa24b06a676d67eec1e39707cbcec8644aa71287315c1"
+    }
+  ],
+  "files": {
+    "LICENSE-KITTEN.txt": {
+      "size": 10394,
+      "sha256": "787aa312b93eee80b636f35652469df29efdb7582239d6a9c088467555a3c7fd"
+    },
+    "priya.f32": {
+      "size": 522240,
+      "sha256": "8fc81241dc881b0cc64c016eb74250f5cd2552ceadfd5ff0a7a1ad475e1561a5"
+    },
+    "LICENSE-KITTENML.txt": {
+      "size": 10394,
+      "sha256": "787aa312b93eee80b636f35652469df29efdb7582239d6a9c088467555a3c7fd"
+    },
+    "README.md": {
+      "size": 1020,
+      "sha256": "da73682453bab176e7a2692ebd821b65ebd01dc598819aa796d71ddc97e07e0b"
+    },
+    "ananya.f32": {
+      "size": 522240,
+      "sha256": "9dfb74e44adeb80dc98299400a736b6b672d4809683963227f539aea8f06af16"
+    },
+    "model.onnx": {
+      "size": 82711386,
+      "sha256": "fa821c1cdd8f7fbfdbd5d1cae0a767673871d62696b85af7db059a9bd26b42d2"
+    },
+    "vikram.f32": {
+      "size": 522240,
+      "sha256": "ce2c1d15d51a3a2e54737642f67a09b50b4508c3d12db231ad6731e6d6d801a4"
+    },
+    "vocab.json": {
+      "size": 1324,
+      "sha256": "b007200ac2a7973ac25c509f8346815076b9d9f33758cb0bfe4de99e2f58f851"
+    }
+  },
+  "urls": [
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/19-Titan-Kitten-Hindi-v1.chunk-00",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/21-Titan-Kitten-Hindi-v1.chunk-01",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/24-Titan-Kitten-Hindi-v1.chunk-02",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/25-Titan-Kitten-Hindi-v1.chunk-03",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/26-Titan-Kitten-Hindi-v1.chunk-04",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/27-Titan-Kitten-Hindi-v1.chunk-05",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/28-Titan-Kitten-Hindi-v1.chunk-06",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/29-Titan-Kitten-Hindi-v1.chunk-07",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/30-Titan-Kitten-Hindi-v1.chunk-08",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/31-Titan-Kitten-Hindi-v1.chunk-09"
+  ]
+}
