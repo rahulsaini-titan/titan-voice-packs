@@ -1,0 +1,11 @@
+Titan Mithi Hindi voice pack v1
+
+Model and ONNX conversion: Oomni, Mithi v1 Edge, Apache License 2.0.
+https://huggingface.co/Oomni/mithi-v1-edge
+https://huggingface.co/spaces/Oomni/mithi-v1-edge-demo
+
+Original voice names retained: Satvik, Nakul, Charvi, Ahana. Shared upstream weights include all ten speaker embeddings; Titan exposes only these four.
+
+Tokenizer: IndicBERT/ALBERT SentencePiece model as redistributed with Mithi. Original model files are unchanged.
+
+This archive contains only Mithi model assets and these notices. It does not contain Titan APK or the bundled Rahul Saini/Pratham voice. No restriction beyond the applicable licences is asserted.
