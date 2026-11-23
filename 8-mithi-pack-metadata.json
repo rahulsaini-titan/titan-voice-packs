@@ -1,0 +1,61 @@
+{
+  "archive_sha256": "62e0d0b2e39927b6f1735b3df7620169d51c85b6b71ddaadcdb3727f2dfee259",
+  "archive_size": 37621914,
+  "files": {
+    "mithi.json": {
+      "size": 832,
+      "sha256": "912c4e690a6c85e68ac2ccc934e282e7162a373ee765707f6618cd39dd76f276"
+    },
+    "decoder.onnx": {
+      "size": 20046176,
+      "sha256": "a32d9722bfc590b0f59f7f2d32eb9efb07293e517de8ca0474d809339ef01b0e"
+    },
+    "spiece.model": {
+      "size": 5646064,
+      "sha256": "3a1173c2b6e144a02c001e289a05b5dbefddf247c50d4dcf42633158b2968fcb"
+    },
+    "old2new.npy": {
+      "size": 1600128,
+      "sha256": "5aafbba764e27ff63fad04dbb5a297cc00fb01cb63b29a0efcd4a532a8d3aa54"
+    },
+    "bert.onnx": {
+      "size": 12247666,
+      "sha256": "5b62cd0b3a2d211e6d5a47e8febca67c008fdf0bebeb2b99e7ac42de9a232085"
+    },
+    "depth.json": {
+      "size": 8616,
+      "sha256": "c60daf21acbe9c3ba2f6fa6288d1aa763eaf82354e6dcec79a4a0f21afbee4ca"
+    },
+    "LICENSE-MITHI.txt": {
+      "size": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    "reader.onnx": {
+      "size": 2731825,
+      "sha256": "74b3faf4d586660462c4474cbb6ff578ea1ee07b42e57f14c3b00677c8405f7f"
+    },
+    "writer_step.onnx": {
+      "size": 3543998,
+      "sha256": "07a2ee6aa1758e3e78686b7970d880de98346201995e2db003b924f0b33b12db"
+    },
+    "voices.json": {
+      "size": 26751,
+      "sha256": "9511b76a336483848a0ea1964c8d02610f685805b3b0edf27eac398690812c08"
+    },
+    "depth.bin": {
+      "size": 1120708,
+      "sha256": "6032e9f7c04a56c6a034384ed2d19fc9ca728c43967016c311a8ad70ce2113bf"
+    },
+    "NOTICE.txt": {
+      "size": 664,
+      "sha256": "c3715a52a4d748c1179beee6648e4fc25b717caa9c0f1d36d357da8c2ee9829c"
+    }
+  },
+  "urls": [
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/1-Titan-Mithi-Hindi-v1.chunk-00",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/2-Titan-Mithi-Hindi-v1.chunk-01",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/3-Titan-Mithi-Hindi-v1.chunk-02",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/4-Titan-Mithi-Hindi-v1.chunk-03",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/5-Titan-Mithi-Hindi-v1.chunk-04"
+  ]
+}
