@@ -1,0 +1,37 @@
+{
+  "archive_size": 1463577,
+  "archive_sha256": "a155811430433430c96fcf356103aad029a90c1bf8028ad3838a78dcc79794eb",
+  "files": {
+    "en_tags.json": {
+      "size": 52498,
+      "sha256": "fb2210433bf91b99e1f9c2766bba1397de83ce549e297ca9db4242000cb72fbd"
+    },
+    "us_gold.json": {
+      "size": 3000469,
+      "sha256": "dc414872a49a28ae6c141463d502fd945f3b2fde040484fdc47d00cc4612686f"
+    },
+    "LICENSE-SPACY.txt": {
+      "size": 1128,
+      "sha256": "3f4378e67708fecacd3e27651c8bc0f977cf20789e19da0d81a2840e7cf573a2"
+    },
+    "LICENSE-MISAKI.txt": {
+      "size": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    "en_tok.json": {
+      "size": 71281,
+      "sha256": "4961d586e2bdcd8822314ddac6c3860396a53dec60eb2fe8ab40a79c2948fc51"
+    },
+    "us_silver.json": {
+      "size": 3099517,
+      "sha256": "de8f67be911bb6c659187b4a65fd966b6a30e56350e0f790d763210b053ac475"
+    },
+    "NOTICE.txt": {
+      "size": 473,
+      "sha256": "0db065ded65b888820160f5e8e68103a6ef7388fee03f503d799a48382d687d8"
+    }
+  },
+  "urls": [
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/4-Titan-Mithi-English-Frontend-v1.zip"
+  ]
+}
