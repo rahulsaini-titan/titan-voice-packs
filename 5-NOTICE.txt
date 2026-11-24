@@ -1,0 +1,13 @@
+Ninada mobile Hindi male specialist. Weights CC-BY-4.0; runtime/tokenizer MIT. Copyright Hemanth.HM.
+https://huggingface.co/gnumanth/ninada
+https://github.com/hemanth/ninada
+
+Training corpus: AI4Bharat Rasa, CC-BY-4.0. Praveen Srinivasa Varadhan, Ashwin Sankar, Giri Raju, Mitesh M. Khapra, Rasa: Building Expressive Speech Synthesis Systems for Indian Languages in Low-resource Settings, INTERSPEECH2024.
+https://huggingface.co/datasets/ai4bharat/Rasa
+
+Initialization: SYSPIN/vits_Hindi_Male, MIT model cards, trained on IISc Bengaluru SYSPIN corpus, CC-BY-4.0. Abhayjeet et al., SYSPIN_S1.0Corpus,2025.
+https://vaani.iisc.ac.in/dataset/syspindataset
+https://ee.iisc.ac.in/limmitsdataset/SYSPIN-Dataset-Terms.pdf
+
+CC-BY-4.0: https://creativecommons.org/licenses/by/4.0/
+No model weights were changed for this Titan pack. Android integration/tokenizer port added. No endorsement by model or data authors is implied. Model/dataset grants do not waive privacy/personality rights. All material is provided without warranty.
