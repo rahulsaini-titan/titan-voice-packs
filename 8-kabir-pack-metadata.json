@@ -1,0 +1,33 @@
+{
+  "name": "Kabir",
+  "upstream": "Ninada Hindi male",
+  "archive_size": 19758811,
+  "archive_sha256": "bd8c50f680d4babb9001a414c3a1d46b4270088ad106744bd5108a90b17702ce",
+  "files": {
+    "LICENSE-WEIGHTS.txt": {
+      "size": 18657,
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411"
+    },
+    "LICENSE-CODE.txt": {
+      "size": 1111,
+      "sha256": "8fc84b9affcd719dd909ac275313f68ace601ea4c295101ad5f6543daa42bc4a"
+    },
+    "hi.onnx": {
+      "size": 22739058,
+      "sha256": "8db74fa920214ddb197cc512a3572b2a1252f499019a281c6ecaa434f73b9564"
+    },
+    "voice.json": {
+      "size": 104,
+      "sha256": "ba4da1c6d189f48fdfb9d2304c1b9c84dd220c5b6bfeb0c280cc2247416b18fa"
+    },
+    "NOTICE.txt": {
+      "size": 1021,
+      "sha256": "e7a737aa4c9dc83eef9fd27407cf8c38d1c85f6905b39203ab6609275c4b13dd"
+    }
+  },
+  "urls": [
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/1-Titan-Ninada-Kabir-v1.chunk-00",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/2-Titan-Ninada-Kabir-v1.chunk-01",
+    "https://github.com/rahulsaini-titan/titan-voice-packs/raw/refs/heads/main/3-Titan-Ninada-Kabir-v1.chunk-02"
+  ]
+}
